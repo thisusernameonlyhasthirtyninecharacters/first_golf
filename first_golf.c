@@ -1,0 +1,1 @@
+main(a){puts("even\0odd"+--a%2*5);}
